@@ -1,0 +1,15 @@
+C:\Users\enoti\source\repos\pw3_piano\bin\Debug\net6.0\pw3_piano.exe
+C:\Users\enoti\source\repos\pw3_piano\bin\Debug\net6.0\pw3_piano.deps.json
+C:\Users\enoti\source\repos\pw3_piano\bin\Debug\net6.0\pw3_piano.runtimeconfig.json
+C:\Users\enoti\source\repos\pw3_piano\bin\Debug\net6.0\pw3_piano.dll
+C:\Users\enoti\source\repos\pw3_piano\bin\Debug\net6.0\pw3_piano.pdb
+C:\Users\enoti\source\repos\pw3_piano\obj\Debug\net6.0\pw3_piano.csproj.AssemblyReference.cache
+C:\Users\enoti\source\repos\pw3_piano\obj\Debug\net6.0\pw3_piano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enoti\source\repos\pw3_piano\obj\Debug\net6.0\pw3_piano.AssemblyInfoInputs.cache
+C:\Users\enoti\source\repos\pw3_piano\obj\Debug\net6.0\pw3_piano.AssemblyInfo.cs
+C:\Users\enoti\source\repos\pw3_piano\obj\Debug\net6.0\pw3_piano.csproj.CoreCompileInputs.cache
+C:\Users\enoti\source\repos\pw3_piano\obj\Debug\net6.0\pw3_piano.dll
+C:\Users\enoti\source\repos\pw3_piano\obj\Debug\net6.0\refint\pw3_piano.dll
+C:\Users\enoti\source\repos\pw3_piano\obj\Debug\net6.0\pw3_piano.pdb
+C:\Users\enoti\source\repos\pw3_piano\obj\Debug\net6.0\pw3_piano.genruntimeconfig.cache
+C:\Users\enoti\source\repos\pw3_piano\obj\Debug\net6.0\ref\pw3_piano.dll
